@@ -37,7 +37,7 @@ export function Projects() {
                 <div className="space-y-3">
                   <div className="flex items-start justify-between">
                     <Image
-                      src={project.icon}
+                      src={`${process.env.BASE_PATH || ''}${project.icon}`}
                       alt={project.title}
                       width={40}
                       height={40}
