@@ -16,14 +16,13 @@ export const translations = {
     about: {
       title: "About Me",
       intro:
-        "I'm a 23-year-old fullstack developer with a strong focus on backend development and DevOps practices. I love creating efficient, scalable solutions and automating workflows.",
+        "I'm a 24-year-old fullstack developer with a strong focus on backend development and DevOps practices. I love creating efficient, scalable solutions and automating workflows.",
       learning: "Continuous Learning",
       learningDesc:
         "I'm passionate about staying up-to-date with the latest technologies and constantly expanding my skill set. Always exploring new frameworks, tools, and best practices.",
       current: "Currently",
       currentItems: [
-        "Building robust backend systems with Python and FastAPI",
-        "Developing modern web applications with Next.js and React",
+        "Developing a MiniSaaS focused on inventory management using FastAPI and Next.js",
         "Implementing DevOps practices and automation",
         "Exploring new technologies and frameworks",
       ],
@@ -40,8 +39,8 @@ export const translations = {
       remittance: {
         title: "RemesasCu",
         description:
-          "A comprehensive full-stack platform for international money transfers with real-time exchange rates and secure payment processing.",
-        tech: "Next.js, React Native, FastAPI, MongoDB, Supabase",
+          "A comprehensive full-stack platform for money transfers powerd by stable cryptocurrencies",
+        tech: "Next.js, React Native, Expo, FastAPI, MongoDB, Supabase, Docker, MinioS3, Cloudflare",
       },
       p2p: {
         title: "PeerTrade",
@@ -79,14 +78,13 @@ export const translations = {
     about: {
       title: "Sobre Mí",
       intro:
-        "Soy un desarrollador fullstack de 23 años con un fuerte enfoque en desarrollo backend y prácticas DevOps. Me encanta crear soluciones eficientes y escalables, y automatizar flujos de trabajo.",
+        "Soy un desarrollador fullstack de 24 años con un fuerte enfoque en desarrollo backend y prácticas DevOps. Me encanta crear soluciones eficientes y escalables, y automatizar flujos de trabajo.",
       learning: "Aprendizaje Continuo",
       learningDesc:
         "Me apasiona mantenerme actualizado con las últimas tecnologías y expandir constantemente mis habilidades. Siempre explorando nuevos frameworks, herramientas y mejores prácticas.",
       current: "Actualmente",
       currentItems: [
-        "Construyendo sistemas backend robustos con Python y FastAPI",
-        "Desarrollando aplicaciones web modernas con Next.js y React",
+        "Desarrollando un MiniSaaS enfocado en la gestión de inventario con FastAPI y Next.js",
         "Implementando prácticas DevOps y automatización",
         "Explorando nuevas tecnologías y frameworks",
       ],
@@ -101,16 +99,16 @@ export const translations = {
     projects: {
       title: "Proyectos Destacados",
       remittance: {
-        title: "Plataforma de Remesas",
+        title: "RemesasCu",
         description:
-          "Una plataforma fullstack completa para transferencias internacionales de dinero con tasas de cambio en tiempo real y procesamiento de pagos seguro.",
-        tech: "Next.js, FastAPI, MongoDB, Stripe",
+          "Una plataforma fullstack completa para transferencias de dinero potenciado con el uso de criptomonedas estables",
+        tech: "Next.js, React Native, Expo, FastAPI, MongoDB, Supabase, Docker, MinioS3, Cloudflare",
       },
       p2p: {
-        title: "App P2P de Criptomonedas",
+        title: "PeerTrade",
         description:
           "Plataforma de trading P2P de criptomonedas con sistema de custodia, chat en tiempo real e integración segura de billeteras.",
-        tech: "React Native, Expo, FastAPI, PostgreSQL",
+        tech: "React+Vite, FastAPI, MongoDB, Celery, RabbitMQ",
       },
     },
     contact: {

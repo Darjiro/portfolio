@@ -10,21 +10,21 @@ export function TechStack() {
   const techStack = {
     backend: [
       {
-        name: "Python",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
-      },
-      {
         name: "FastAPI",
         icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg",
+      },
+      {
+        name: "MongoDB",
+        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
       },
       {
         name: "PostgreSQL",
         icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
       },
       {
-        name: "MongoDB",
-        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
-      },
+        name: "Python",
+        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+      }
     ],
     frontend: [
       {
@@ -39,6 +39,10 @@ export function TechStack() {
         name: "React Native",
         icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
       },
+      {
+        name: "TypeScript",
+        icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+      }
     ],
     devops: [
       {
