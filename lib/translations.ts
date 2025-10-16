@@ -39,14 +39,14 @@ export const translations = {
       remittance: {
         title: "RemesasCu",
         description:
-          "A comprehensive full-stack platform for money transfers powerd by stable cryptocurrencies",
+          "A comprehensive full-stack platform for money transfers powered by stable cryptocurrencies. The backend serves three frontends: a client application, a provider application, and a moderation panel. Clients create orders, and providers pay them.",
         tech: "Next.js, React Native, Expo, FastAPI, MongoDB, Supabase, Docker, MinioS3, Cloudflare",
       },
       p2p: {
         title: "PeerTrade",
         description:
-          "Peer-to-peer cryptocurrency trading platform with escrow system, real-time chat, and secure wallet integration.",
-        tech: "React+Vite, FastAPI, MongoDB, Celery, RabbitMQ",
+          "Peer-to-peer cryptocurrency trading platform with an escrow system, real-time chat, and secure wallet integration. It also includes a KYC system for user verification, a feedback and rewards system to incentivize users, and a leveling and trophy system to gamify the experience.",
+        tech: "React+Vite, FastAPI, MongoDB, Celery, RabbitMQ, Telegram, AWS KMS, AWS S3, SMTP, Tatum, Docker, CoinMarketCap API",
       },
     },
     contact: {
@@ -101,14 +101,14 @@ export const translations = {
       remittance: {
         title: "RemesasCu",
         description:
-          "Una plataforma fullstack completa para transferencias de dinero potenciado con el uso de criptomonedas estables",
+          "Una plataforma fullstack completa para transferencias de dinero potenciado con el uso de criptomonedas estables. El backend sirve a tres frontends: una aplicación para clientes, una para proveedores y un panel de moderación. Los clientes crean órdenes y los proveedores las pagan.",
         tech: "Next.js, React Native, Expo, FastAPI, MongoDB, Supabase, Docker, MinioS3, Cloudflare",
       },
       p2p: {
         title: "PeerTrade",
         description:
-          "Plataforma de trading P2P de criptomonedas con sistema de custodia, chat en tiempo real e integración segura de billeteras.",
-        tech: "React+Vite, FastAPI, MongoDB, Celery, RabbitMQ",
+          "Plataforma de trading P2P de criptomonedas con sistema de custodia, chat en tiempo real e integración segura de billeteras. También incluye un sistema de KYC para la verificación de usuarios, un sistema de feedbacks y recompensas para incentivar a los usuarios, y un sistema de niveles y trofeos para gamificar la experiencia.",
+        tech: "React+Vite, FastAPI, MongoDB, Celery, RabbitMQ, Telegram, AWS KMS, AWS S3, SMTP, Tatum, Docker, CoinMarketCap API",
       },
     },
     contact: {
