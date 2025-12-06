@@ -22,7 +22,7 @@ export const translations = {
         "I'm passionate about staying up-to-date with the latest technologies and constantly expanding my skill set. Always exploring new frameworks, tools, and best practices.",
       current: "Currently",
       currentItems: [
-        "Developing a MiniSaaS focused on inventory management using FastAPI and Next.js",
+        "Building KeepAll, a sales platform where sellers keep 100% of the revenue.",
         "Implementing DevOps practices and automation",
         "Exploring new technologies and frameworks",
       ],
@@ -47,6 +47,12 @@ export const translations = {
         description:
           "Peer-to-peer cryptocurrency trading platform with an escrow system, real-time chat, and secure wallet integration. It also includes a KYC system for user verification, a feedback and rewards system to incentivize users, and a leveling and trophy system to gamify the experience.",
         tech: "React+Vite, FastAPI, MongoDB, Celery, RabbitMQ, Telegram, AWS KMS, AWS S3, SMTP, Tatum, Docker, CoinMarketCap API",
+      },
+      keepAll: {
+        title: "KeepAll",
+        description:
+          "A sales platform where sellers keep 100% of the revenue. It empowers creators and merchants by removing platform fees, allowing them to maximize their earnings.",
+        tech: "Next.js, Supabase, FastAPI, MongoDB, Vercel, Cloudflare R2, x402 Protocol, Resend",
       },
     },
     contact: {
@@ -84,7 +90,7 @@ export const translations = {
         "Me apasiona mantenerme actualizado con las últimas tecnologías y expandir constantemente mis habilidades. Siempre explorando nuevos frameworks, herramientas y mejores prácticas.",
       current: "Actualmente",
       currentItems: [
-        "Desarrollando un MiniSaaS enfocado en la gestión de inventario con FastAPI y Next.js",
+        "Construyendo KeepAll, una plataforma de ventas donde los vendedores se quedan el 100% de los ingresos.",
         "Implementando prácticas DevOps y automatización",
         "Explorando nuevas tecnologías y frameworks",
       ],
@@ -109,6 +115,12 @@ export const translations = {
         description:
           "Plataforma de trading P2P de criptomonedas con sistema de custodia, chat en tiempo real e integración segura de billeteras. También incluye un sistema de KYC para la verificación de usuarios, un sistema de feedbacks y recompensas para incentivar a los usuarios, y un sistema de niveles y trofeos para gamificar la experiencia.",
         tech: "React+Vite, FastAPI, MongoDB, Celery, RabbitMQ, Telegram, AWS KMS, AWS S3, SMTP, Tatum, Docker, CoinMarketCap API",
+      },
+      keepAll: {
+        title: "KeepAll",
+        description:
+          "Una plataforma de ventas donde los vendedores se quedan el 100% de los ingresos. Empodera a creadores y comerciantes eliminando las tarifas de la plataforma, permitiéndoles maximizar sus ganancias.",
+        tech: "Next.js, Supabase, FastAPI, MongoDB, Vercel, Cloudflare R2, x402 Protocol, Resend",
       },
     },
     contact: {

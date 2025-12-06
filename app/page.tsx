@@ -23,7 +23,7 @@ export default function Home() {
       </main>
       <footer className="border-t border-border py-8">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground">
-          <p>© 2025 Andy (@Darjiro). {t.footer.rights}</p>
+          <p>© 2025 Andy (@darjiro). {t.footer.rights}</p>
         </div>
       </footer>
     </div>

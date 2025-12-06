@@ -10,7 +10,7 @@ import { LanguageProvider } from "@/lib/language-context"
 export const metadata: Metadata = {
   title: "Andy - Fullstack Developer & DevOps Engineer",
   description:
-    "Portfolio of Andy (@Darjiro), a fullstack developer passionate about DevOps, automation, and continuous learning",
+    "Portfolio of Andy (@darjiro), a fullstack developer passionate about DevOps, automation, and continuous learning",
   generator: "v0.app",
 }
 
