@@ -26,7 +26,7 @@ export function Projects() {
       tech: t.projects.remittance.tech,
       icon: "/remesascu_logo.png",
       tags: ["FastAPI", "Next.js", "Crypto"],
-      link: "https:remesascu.com",
+      link: "https://remesascu.com",
     },
     {
       title: t.projects.p2p.title,
