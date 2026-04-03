@@ -15,17 +15,18 @@ export function Projects() {
       title: t.projects.keepAll.title,
       description: t.projects.keepAll.description,
       tech: t.projects.keepAll.tech,
-      icon: "/keepall_logo.png", // Assuming a logo exists or using a placeholder if not provided, but user said url is keep-all.com. I'll use a placeholder or generic icon if I don't have one. I'll use a generic one for now or check if I can use a screenshot.
+      icon: "/keepall_logo.png",
       tags: ["Next.js", "FastAPI", "x402", "Supabase"],
-      link: "https://keep-all.com", // Adding link property if supported, otherwise I might need to add it to the component logic.
-      isKeepAll: true, // Flag to identify KeepAll for custom styling
+      link: "https://keep-all.com",
+      isKeepAll: true,
     },
     {
       title: t.projects.remittance.title,
       description: t.projects.remittance.description,
       tech: t.projects.remittance.tech,
       icon: "/remesascu_logo.png",
-      tags: ["FastAPI", "Next.js", "Crypto"], // Puedes añadir tags para badges visuales
+      tags: ["FastAPI", "Next.js", "Crypto"],
+      link: "https:remesascu.com",
     },
     {
       title: t.projects.p2p.title,
